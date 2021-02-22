@@ -5,9 +5,7 @@
 
 ![Banner](https://github.com/AnkitaSinha98/AnkitaSinha98/blob/main/Cover.jpg)
 
-![Developer Badge](https://img.shields.io/badge/Developer-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000)
-
-![Researcher Badge](https://img.shields.io/badge/Researcher-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000)
+![Developer Badge](https://img.shields.io/badge/Developer-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000) ![Researcher Badge](https://img.shields.io/badge/Researcher-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000)
 
 <br />
 
