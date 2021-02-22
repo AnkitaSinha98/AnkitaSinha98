@@ -1,16 +1,44 @@
 ### Hi there 👋
 
-<!--
-**AnkitaSinha98/AnkitaSinha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Visionary love to learn and explore new technologies.  
 
-Here are some ideas to get you started:
+![Developer Badge](https://img.shields.io/badge/Developer-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Researcher Badge](https://img.shields.io/badge/Researcher-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000)
+
+<br />
+
+![Age](https://img.shields.io/badge/Age-23-blue)
+![Focus](https://img.shields.io/badge/Focus-DataScience-brightgreen)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnkitaSinha98.visitor-badge)
+
+
+<hr>
+<br>
+
+- 🔭 I’m currently a __Student__
+- 💬 Ask me about __MachineLearning, DataScience, Security__
+- 📫 How to reach me: sinhaankitasinha31@gmail.com
+- ⚡ Fun fact: __The First Known Computer Programmer was a Woman__
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitaSinha98&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackinfinity&theme=default&line_height=50&layout=compact" />
+</p>
+
+<br>
+
+<div align="center">
+  
+  **Get in touch with me here**<br>
+
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/7595b8c3e2d9484)](https://twitter.com/7595b8c3e2d9484)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankita-sinha-b3781b138/)](https://www.linkedin.com/in/ankita-sinha-b3781b138/)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ankita.sinha.988926/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-R31ED760.svg?&style=flat-square&logo=instagram&logoColor=white&color=F77737)](https://www.instagram.com/just_ankitasinha/)
+
+  
+</div>
+
+⭐️ From [AnkitaSinha98](https://github.com/AnkitaSinha98)
