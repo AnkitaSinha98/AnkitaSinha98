@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a Visionary love to learn and explore new technologies.  
+### I am a visionary, love to learn, and explore new technologies.  
 
 
 ![Banner](https://github.com/AnkitaSinha98/AnkitaSinha98/blob/main/Cover.jpg)
