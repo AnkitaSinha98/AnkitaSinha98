@@ -34,10 +34,10 @@
   
   **Get in touch with me here**<br>
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/7595b8c3e2d9484)](https://twitter.com/7595b8c3e2d9484)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankita-sinha-b3781b138/)](https://www.linkedin.com/in/ankita-sinha-b3781b138/)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-R31ED760.svg?&style=flat-square&logo=instagram&logoColor=white&color=da1884)](https://www.instagram.com/just_ankitasinha/)
-  [![Medium Badge](https://img.shields.io/badge/Medium-R31ED760.svg?&style=flat-square&logo=medium&logoColor=white&color=000000)](https://sinhaankitasinha31.medium.com/ ) 
+  [![Medium Badge](https://img.shields.io/badge/Medium-R31ED760.svg?&style=flat-square&logo=medium&logoColor=white&color=000000)](https://sinhaankitasinha31.medium.com/)
+    [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/7595b8c3e2d9484)](https://twitter.com/7595b8c3e2d9484)
 </div>
 
 ⭐️ From [AnkitaSinha98](https://github.com/AnkitaSinha98)
