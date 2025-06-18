@@ -9,16 +9,16 @@
 
 <br />
 
-![Age](https://img.shields.io/badge/Age-23-blue)
-![Focus](https://img.shields.io/badge/Focus-DataScience-brightgreen)
+![Age](https://img.shields.io/badge/Age-27-blue)
+![Focus](https://img.shields.io/badge/Focus-CyberSecurity-brightgreen)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnkitaSinha98.visitor-badge)
 
 
 <hr>
 <br>
 
-- 🔭 I’m currently a __Student__
-- 💬 Ask me about __MachineLearning, DataScience, Security__
+- 🔭 I’m a __Cyber Security Analyst__
+- 💬 Ask me about __Cyber Security, Threat Hunting__
 - 📫 How to reach me: sinhaankitasinha31@gmail.com
 - ⚡ Fun fact: __The First Known Computer Programmer was a Woman__
 
